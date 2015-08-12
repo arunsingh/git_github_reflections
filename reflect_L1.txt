@@ -24,7 +24,8 @@ Reflect: Confidence from Version Control
 
 How might using version control make you more confident to make changes that could break something?
 
-
+Reflect: How Do You Want to Use Git?
+-I want to use git for tracking projects versions, prepare software documentation.
 
 Reflect: Multi-File commits
 Multi-file commits are usefull when files are related to eachother.
